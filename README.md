@@ -1,4 +1,10 @@
-# AutobusComplete
+# chat-app
+simple chat app using signalr
+
+# Live-Demo
+https://abdelrhmanelkady.github.io/chat-app-front-end/
+
+# chat-app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
